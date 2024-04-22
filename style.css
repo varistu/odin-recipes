@@ -6,3 +6,9 @@ h1,
 h2 {
     font-family: Georgia, serif;
 }
+
+.title {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
