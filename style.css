@@ -13,6 +13,11 @@ h2 {
     text-align: center;
 }
 
+.content {
+    background-color: #eee;
+    padding: 8px;
+}
+
 .recipe-image {
     width: 512;
     height: auto;
